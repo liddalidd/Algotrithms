@@ -1,2 +1,2 @@
-# Algotrithms
-USYD_COMP9007_2020S2
+# Algorithms
+9007 for algorithms.
